@@ -1,0 +1,18 @@
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\bin\Debug\Proper calculator.exe.config
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\bin\Debug\Proper calculator.exe
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\bin\Debug\Proper calculator.pdb
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\obj\Debug\Proper calculator.csprojResolveAssemblyReference.cache
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\obj\Debug\Proper_calculator.Form1.resources
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\obj\Debug\Proper_calculator.Properties.Resources.resources
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\obj\Debug\Proper calculator.csproj.GenerateResource.Cache
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\obj\Debug\Proper calculator.exe
+c:\users\sharat\documents\visual studio 2015\Projects\Proper calculator\Proper calculator\obj\Debug\Proper calculator.pdb
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\bin\Debug\Proper calculator.exe.config
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\obj\Debug\Proper calculator.exe
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\obj\Debug\Proper calculator.pdb
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\bin\Debug\Proper calculator.exe
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\bin\Debug\Proper calculator.pdb
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\obj\Debug\Proper calculator.csprojResolveAssemblyReference.cache
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\obj\Debug\Proper_calculator.Form1.resources
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\obj\Debug\Proper_calculator.Properties.Resources.resources
+C:\Users\Sharat\Desktop\Sharat Projects\Application Based\C#\Calculator Application\Proper calculator\obj\Debug\Proper calculator.csproj.GenerateResource.Cache
